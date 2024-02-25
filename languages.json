@@ -1,0 +1,17 @@
+{
+    "en": {
+      "title": "Feedback",
+      "ratingLabel": "Rating",
+      "feedbackPlaceholder": "Your feedback...",
+      "submitButtonText": "Submit Feedback",
+      "feedbackLengthWarning": "Feedback must be at least 30 characters long."
+    },
+    "fr": {
+      "title": "Retour",
+      "ratingLabel": "Évaluation",
+      "feedbackPlaceholder": "Votre retour...",
+      "submitButtonText": "Soumettre le retour",
+      "feedbackLengthWarning": "Le retour doit comporter au moins 30 caractères."
+    }
+  }
+  
